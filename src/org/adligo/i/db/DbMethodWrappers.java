@@ -3,11 +3,9 @@ package org.adligo.i.db;
 import javax.persistence.EntityTransaction;
 import javax.persistence.PersistenceException;
 
-import org.adligo.i.adi.client.InvocationException;
-import org.adligo.i.adig.client.GRegistry;
-import org.adligo.i.adig.client.I_GCheckedInvoker;
-import org.adligo.i.log.shared.Log;
-import org.adligo.i.log.shared.LogFactory;
+import org.adligo.i.adi.shared.InvocationException;
+import org.adligo.i.adig.shared.GRegistry;
+import org.adligo.i.adig.shared.I_GCheckedInvoker;
 
 public class DbMethodWrappers {
 	

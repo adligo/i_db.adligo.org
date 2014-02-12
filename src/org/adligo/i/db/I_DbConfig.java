@@ -5,7 +5,8 @@ import java.util.Properties;
 
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
-import org.adligo.i.adi.client.InvocationException;
+
+import org.adligo.i.adi.shared.InvocationException;
 
 public interface I_DbConfig {
 

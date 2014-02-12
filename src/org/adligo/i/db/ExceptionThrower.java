@@ -2,7 +2,7 @@ package org.adligo.i.db;
 
 import javax.persistence.PersistenceException;
 
-import org.adligo.i.adi.client.InvocationException;
+import org.adligo.i.adi.shared.InvocationException;
 
 public class ExceptionThrower {
 
