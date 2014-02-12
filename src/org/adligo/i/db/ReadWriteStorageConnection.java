@@ -3,8 +3,8 @@ package org.adligo.i.db;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;
 
-import org.adligo.i.log.client.Log;
-import org.adligo.i.log.client.LogFactory;
+import org.adligo.i.log.shared.Log;
+import org.adligo.i.log.shared.LogFactory;
 
 /**
  * this class is not threadsafe (due to the entity manager it self not being thread save,

@@ -10,8 +10,8 @@ import javax.persistence.EntityManagerFactory;
 import org.adligo.i.adi.client.InvocationException;
 import org.adligo.i.adig.client.BaseGInvoker;
 import org.adligo.i.adig.client.I_GCheckedInvoker;
-import org.adligo.i.log.client.Log;
-import org.adligo.i.log.client.LogFactory;
+import org.adligo.i.log.shared.Log;
+import org.adligo.i.log.shared.LogFactory;
 
 /**
  * a api that allows for getting a connection

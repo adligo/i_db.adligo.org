@@ -6,8 +6,8 @@ import javax.persistence.PersistenceException;
 import org.adligo.i.adi.client.InvocationException;
 import org.adligo.i.adig.client.GRegistry;
 import org.adligo.i.adig.client.I_GCheckedInvoker;
-import org.adligo.i.log.client.Log;
-import org.adligo.i.log.client.LogFactory;
+import org.adligo.i.log.shared.Log;
+import org.adligo.i.log.shared.LogFactory;
 
 public class DbMethodWrappers {
 	

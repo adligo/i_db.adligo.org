@@ -1,6 +1,6 @@
 package org.adligo.i.db;
 
-import org.adligo.models.core.client.ids.I_StorageIdentifier;
+import org.adligo.models.core.shared.ids.I_StorageIdentifier;
 
 /**
  * This class encapsulates a request for a entity by a Long, and 
